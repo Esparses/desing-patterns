@@ -11,6 +11,11 @@ is a **Creational Design Pattern** that allows an interface or a class to create
 3. **Creator class**: declares the factory method that returns new product objects. It is important that the return type of this method matches the product interface.
 4. **Concrete Creators**: overwrite the base Factory Method, so that it returns a different type of product.
 
+
+## Excercise
+![Diagram class to Implement](./images/diagram_clkas_imp.png)
+
+
 *This text will be italic*
 _This will also be italic_
 
